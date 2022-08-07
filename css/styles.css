@@ -1,0 +1,48 @@
+body{
+  background-color:#EAF6F6;
+}
+hr{
+  border-style: none;
+  border-top-style: dotted;
+  border-color: grey;
+  border-width: 5px;
+  width: 5%;
+
+}
+h1,h2,h3{
+  color: #66BFBF;
+}
+p{
+  font-family: Times New Roman;
+  font-size: 15px;
+}
+ul{
+  font-family:Times New Roman;
+  font-size:15px;
+}
+table{
+  font-family:Times New Roman;
+  font-size:15px;
+}
+#heading:hover{
+  color:gold;
+  padding-left: 8px;
+}
+#link:hover{
+  color:red;
+}
+#link2:hover{
+  color:red;
+}
+#linkedin:hover{
+  color:red;
+}
+#github:hover{
+  color:red
+}
+#twitter:hover{
+  color:red
+}
+#mail:hover{
+  color:red;
+}
